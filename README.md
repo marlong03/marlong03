@@ -9,7 +9,7 @@
 <br />
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-d94e09?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![springboot](https://img.shields.io/badge/Spring_boot-339933?style=for-the-badge&logo=Spring_boot&logoColor=white&labelColor=101010)]()
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marlong_mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlong-mendoza)
