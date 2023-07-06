@@ -1,5 +1,5 @@
-## Desarrolador Frontend 
-### ¡Hola soy marlong! 😎👍
+# ¡Hola soy marlong, <br /> Desarrollador Frontend! 💥
+
 
 
 ## Tecnologías:
