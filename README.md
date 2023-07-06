@@ -10,6 +10,7 @@
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marlong-mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlong-mendoza)
 
+
 [![Platzi](https://img.shields.io/badge/Platzi-marlong03-0077B5?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)](https://platzi.com/p/marlong03/)
 
 <!--
