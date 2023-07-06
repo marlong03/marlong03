@@ -1,5 +1,5 @@
 # ¡Hola soy Marlong, <br /> Desarrollador Frontend! 💥
-<em>Hola</em>
+<em style="color:red">Hola</em>
 
 
 ## Tecnologías:
