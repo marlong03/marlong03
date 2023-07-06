@@ -8,7 +8,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlong-Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlong-mendoza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marlong_mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlong-mendoza)
 <br />
 [![Platzi](https://img.shields.io/badge/Platzi-marlong03-7fc719?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)](https://platzi.com/p/marlong03/)
 
