@@ -12,7 +12,7 @@
 
 
 
-[![Platzi](https://img.shields.io/badge/Platzi-marlong03?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)](https://platzi.com/p/marlong03/)
+[![Platzi](https://img.shields.io/badge/Platzi-marlong03-7fc719?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)](https://platzi.com/p/marlong03/)
 
 <!--
 **marlong03/marlong03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
