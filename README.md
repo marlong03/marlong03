@@ -1,4 +1,4 @@
-# ¡Hola soy Marlong, <br /> Desarrollador Frontend! 💥
+# ¡Hola soy Marlong, <br /> Desarrollador Full Stack! 💥
 
 
 
